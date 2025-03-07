@@ -70,6 +70,3 @@ This script performs various **business intelligence, exploratory data analysis 
 5. **Enhanced Basket Analysis:** Tune Apriori algorithm parameters for **stronger association rules**.
 
 ---
-
-### **Conclusion**
-Your script is well-structured and covers multiple aspects of **customer analytics, sales trends, and machine learning models**. If you need refinements, let me know! 🚀
